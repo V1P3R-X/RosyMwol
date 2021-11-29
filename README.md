@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/DEVILSER">DEVIL-SER</a> to make i
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/C49rohR4rq7CuvfyCXSw6h)
  
 ## Setup
 <div align="center">
